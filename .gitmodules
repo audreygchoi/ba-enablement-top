@@ -1,0 +1,6 @@
+[submodule "ba-enablement-domain"]
+	path = ba-enablement-domain
+	url = git@github.com:audreygchoi/ba-enablement-domain.git
+[submodule "ba-enablement-app"]
+	path = ba-enablement-app
+	url = git@github.com:audreygchoi/ba-enablement-app.git
